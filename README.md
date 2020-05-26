@@ -1,5 +1,5 @@
 # Neural-Nets
 
-This is a simple algorithm of 
+This is a simple application of 
 Perceptron training
 with Java concurrency
